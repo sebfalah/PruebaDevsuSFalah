@@ -1,0 +1,50 @@
+{"id_pais":"19","ranking_orig":11,"nombre":"Sándor Kocsis","goles":75,"partidos":68,"nombre_pais":" Hungría","es_mejor_del_pais":true,"eficiencia":1.1029,"nuevo_ranking":1}
+{"id_pais":"2","ranking_orig":23,"nombre":"Gerd Müller","goles":68,"partidos":62,"nombre_pais":" Alemania Federal","es_mejor_del_pais":true,"eficiencia":1.0968,"nuevo_ranking":2}
+{"id_pais":"26","ranking_orig":12,"nombre":"Kunishige Kamamoto","goles":75,"partidos":76,"nombre_pais":" Japón","es_mejor_del_pais":true,"eficiencia":0.9868,"nuevo_ranking":3}
+{"id_pais":"20","ranking_orig":4,"nombre":"Ferenc Puskás","goles":84,"partidos":89,"nombre_pais":" Hungría/ España","es_mejor_del_pais":true,"eficiencia":0.9438,"nuevo_ranking":4}
+{"id_pais":"19","ranking_orig":36,"nombre":"Imre Schlosser","goles":59,"partidos":68,"nombre_pais":" Hungría","es_mejor_del_pais":false,"eficiencia":0.8676,"nuevo_ranking":5}
+{"id_pais":"16","ranking_orig":34,"nombre":"Abdul Ghani Minhat","goles":61,"partidos":71,"nombre_pais":" Federación Malaya/ Malasia","es_mejor_del_pais":true,"eficiencia":0.8592,"nuevo_ranking":6}
+{"id_pais":"8","ranking_orig":10,"nombre":"Pelé","goles":77,"partidos":92,"nombre_pais":" Brasil","es_mejor_del_pais":true,"eficiencia":0.837,"nuevo_ranking":7}
+{"id_pais":"8","ranking_orig":45,"nombre":"Romário","goles":55,"partidos":70,"nombre_pais":" Brasil","es_mejor_del_pais":false,"eficiencia":0.7857,"nuevo_ranking":8}
+{"id_pais":"13","ranking_orig":7,"nombre":"Ali Mabkhout","goles":79,"partidos":104,"nombre_pais":" Emiratos Arabes Unidos","es_mejor_del_pais":true,"eficiencia":0.7596,"nuevo_ranking":9}
+{"id_pais":"27","ranking_orig":30,"nombre":"Jasem Al-Huwaidi","goles":63,"partidos":83,"nombre_pais":" Kuwait","es_mejor_del_pais":false,"eficiencia":0.759,"nuevo_ranking":10}
+{"id_pais":"24","ranking_orig":2,"nombre":"Ali Daei","goles":109,"partidos":148,"nombre_pais":" Irán","es_mejor_del_pais":true,"eficiencia":0.7365,"nuevo_ranking":11}
+{"id_pais":"39","ranking_orig":8,"nombre":"Godfrey Chitalu","goles":79,"partidos":111,"nombre_pais":" Zambia","es_mejor_del_pais":true,"eficiencia":0.7117,"nuevo_ranking":12}
+{"id_pais":"36","ranking_orig":19,"nombre":"Piyapong Pue-on","goles":70,"partidos":100,"nombre_pais":" Tailandia","es_mejor_del_pais":false,"eficiencia":0.7,"nuevo_ranking":13}
+{"id_pais":"6","ranking_orig":24,"nombre":"Romelu Lukaku","goles":68,"partidos":101,"nombre_pais":" Bélgica","es_mejor_del_pais":true,"eficiencia":0.6733,"nuevo_ranking":14}
+{"id_pais":"30","ranking_orig":39,"nombre":"Ali Ashfaq","goles":57,"partidos":89,"nombre_pais":" Maldivas","es_mejor_del_pais":true,"eficiencia":0.6404,"nuevo_ranking":15}
+{"id_pais":"21","ranking_orig":6,"nombre":"Sunil Chhetri","goles":80,"partidos":125,"nombre_pais":" India","es_mejor_del_pais":true,"eficiencia":0.64,"nuevo_ranking":16}
+{"id_pais":"8","ranking_orig":31,"nombre":"Ronaldo Nazario","goles":62,"partidos":98,"nombre_pais":" Brasil","es_mejor_del_pais":false,"eficiencia":0.6327,"nuevo_ranking":17}
+{"id_pais":"22","ranking_orig":20,"nombre":"Abdul Kadir","goles":70,"partidos":111,"nombre_pais":" Indonesia","es_mejor_del_pais":true,"eficiencia":0.6306,"nuevo_ranking":18}
+{"id_pais":"28","ranking_orig":3,"nombre":"Mokhtar Dahari","goles":89,"partidos":142,"nombre_pais":" Malasia","es_mejor_del_pais":true,"eficiencia":0.6268,"nuevo_ranking":19}
+{"id_pais":"32","ranking_orig":1,"nombre":"Cristiano Ronaldo","goles":115,"partidos":184,"nombre_pais":" Portugal","es_mejor_del_pais":true,"eficiencia":0.625,"nuevo_ranking":20}
+{"id_pais":"11","ranking_orig":29,"nombre":"Didier Drogba","goles":65,"partidos":105,"nombre_pais":" Costa de Marfil","es_mejor_del_pais":true,"eficiencia":0.619,"nuevo_ranking":21}
+{"id_pais":"26","ranking_orig":46,"nombre":"Kazuyoshi Miura","goles":55,"partidos":89,"nombre_pais":" Japón","es_mejor_del_pais":false,"eficiencia":0.618,"nuevo_ranking":22}
+{"id_pais":"4","ranking_orig":15,"nombre":"Majed Abdullah","goles":72,"partidos":117,"nombre_pais":" Arabia Saudita","es_mejor_del_pais":true,"eficiencia":0.6154,"nuevo_ranking":23}
+{"id_pais":"37","ranking_orig":21,"nombre":"Stern John","goles":70,"partidos":115,"nombre_pais":" Trinidad y Tobago","es_mejor_del_pais":true,"eficiencia":0.6087,"nuevo_ranking":24}
+{"id_pais":"29","ranking_orig":16,"nombre":"Kinnah Phiri","goles":71,"partidos":117,"nombre_pais":" Malawi","es_mejor_del_pais":true,"eficiencia":0.6068,"nuevo_ranking":25}
+{"id_pais":"33","ranking_orig":47,"nombre":"Jan Koller","goles":55,"partidos":91,"nombre_pais":" República Checa","es_mejor_del_pais":true,"eficiencia":0.6044,"nuevo_ranking":26}
+{"id_pais":"8","ranking_orig":22,"nombre":"Neymar","goles":70,"partidos":116,"nombre_pais":" Brasil","es_mejor_del_pais":false,"eficiencia":0.6034,"nuevo_ranking":27}
+{"id_pais":"14","ranking_orig":37,"nombre":"David Villa","goles":59,"partidos":98,"nombre_pais":" España","es_mejor_del_pais":true,"eficiencia":0.602,"nuevo_ranking":28}
+{"id_pais":"31","ranking_orig":14,"nombre":"Robert Lewandowski","goles":74,"partidos":128,"nombre_pais":" Polonia","es_mejor_del_pais":true,"eficiencia":0.5781,"nuevo_ranking":29}
+{"id_pais":"23","ranking_orig":9,"nombre":"Hussein Saeed","goles":78,"partidos":137,"nombre_pais":" Irak","es_mejor_del_pais":true,"eficiencia":0.5693,"nuevo_ranking":30}
+{"id_pais":"22","ranking_orig":48,"nombre":"Iswadi Idris","goles":55,"partidos":97,"nombre_pais":" Indonesia","es_mejor_del_pais":false,"eficiencia":0.567,"nuevo_ranking":31}
+{"id_pais":"18","ranking_orig":40,"nombre":"Carlos Pavón","goles":57,"partidos":101,"nombre_pais":" Honduras","es_mejor_del_pais":true,"eficiencia":0.5644,"nuevo_ranking":32}
+{"id_pais":"27","ranking_orig":13,"nombre":"Bashar Abdullah","goles":75,"partidos":134,"nombre_pais":" Kuwait","es_mejor_del_pais":true,"eficiencia":0.5597,"nuevo_ranking":33}
+{"id_pais":"34","ranking_orig":49,"nombre":"Fandi Ahmad","goles":55,"partidos":101,"nombre_pais":" Singapur","es_mejor_del_pais":true,"eficiencia":0.5446,"nuevo_ranking":34}
+{"id_pais":"3","ranking_orig":50,"nombre":"Joachim Streich","goles":55,"partidos":102,"nombre_pais":" Alemania Oriental","es_mejor_del_pais":true,"eficiencia":0.5392,"nuevo_ranking":35}
+{"id_pais":"36","ranking_orig":17,"nombre":"Kiatisuk Senamuang","goles":71,"partidos":134,"nombre_pais":" Tailandia","es_mejor_del_pais":true,"eficiencia":0.5299,"nuevo_ranking":36}
+{"id_pais":"1","ranking_orig":18,"nombre":"Miroslav Klose","goles":71,"partidos":137,"nombre_pais":" Alemania","es_mejor_del_pais":true,"eficiencia":0.5182,"nuevo_ranking":37}
+{"id_pais":"35","ranking_orig":32,"nombre":"Zlatan Ibrahimović","goles":62,"partidos":120,"nombre_pais":" Suecia","es_mejor_del_pais":true,"eficiencia":0.5167,"nuevo_ranking":38}
+{"id_pais":"38","ranking_orig":28,"nombre":"Luis Suárez","goles":67,"partidos":130,"nombre_pais":" Uruguay","es_mejor_del_pais":true,"eficiencia":0.5154,"nuevo_ranking":39}
+{"id_pais":"5","ranking_orig":5,"nombre":"Lionel Messi","goles":81,"partidos":158,"nombre_pais":" Argentina","es_mejor_del_pais":true,"eficiencia":0.5127,"nuevo_ranking":40}
+{"id_pais":"23","ranking_orig":33,"nombre":"Ahmed Radhi","goles":62,"partidos":121,"nombre_pais":" Irak","es_mejor_del_pais":false,"eficiencia":0.5124,"nuevo_ranking":41}
+{"id_pais":"17","ranking_orig":25,"nombre":"Carlos Ruiz Gutiérrez","goles":68,"partidos":133,"nombre_pais":" Guatemala","es_mejor_del_pais":true,"eficiencia":0.5113,"nuevo_ranking":42}
+{"id_pais":"7","ranking_orig":35,"nombre":"Edin Džeko","goles":60,"partidos":118,"nombre_pais":" Bosnia y Herzegovina","es_mejor_del_pais":true,"eficiencia":0.5085,"nuevo_ranking":43}
+{"id_pais":"9","ranking_orig":44,"nombre":"Samuel Eto'o","goles":56,"partidos":118,"nombre_pais":" Camerún","es_mejor_del_pais":true,"eficiencia":0.4746,"nuevo_ranking":44}
+{"id_pais":"25","ranking_orig":26,"nombre":"Robbie Keane","goles":68,"partidos":146,"nombre_pais":" Irlanda","es_mejor_del_pais":true,"eficiencia":0.4658,"nuevo_ranking":45}
+{"id_pais":"10","ranking_orig":38,"nombre":"Cha Bum-Kun","goles":58,"partidos":135,"nombre_pais":" Corea del Sur","es_mejor_del_pais":true,"eficiencia":0.4296,"nuevo_ranking":46}
+{"id_pais":"15","ranking_orig":41,"nombre":"Clint Dempsey","goles":57,"partidos":141,"nombre_pais":" Estados Unidos","es_mejor_del_pais":true,"eficiencia":0.4043,"nuevo_ranking":47}
+{"id_pais":"12","ranking_orig":27,"nombre":"Hossam Hassan","goles":68,"partidos":176,"nombre_pais":" Egipto","es_mejor_del_pais":true,"eficiencia":0.3864,"nuevo_ranking":48}
+{"id_pais":"23","ranking_orig":42,"nombre":"Younis Mahmoud","goles":57,"partidos":148,"nombre_pais":" Irak","es_mejor_del_pais":false,"eficiencia":0.3851,"nuevo_ranking":49}
+{"id_pais":"15","ranking_orig":43,"nombre":"Landon Donovan","goles":57,"partidos":157,"nombre_pais":" Estados Unidos","es_mejor_del_pais":false,"eficiencia":0.3631,"nuevo_ranking":50}
